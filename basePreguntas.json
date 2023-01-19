@@ -1,0 +1,244 @@
+[
+
+
+
+    {
+        "categoria": "NIVEL 1",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "incorrecta4": "A Lynn",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "NIVEL 1",
+        "pregunta": "profesión que tenía Hércules Poirot en las novelas de Agatha Christie.",
+        "respuesta": "Detective",
+        "incorrecta1": "Abogado",
+        "incorrecta2": "Escritor",
+        "incorrecta3": "Vocero\r",
+        "incorrecta4": "zapatero"
+    },
+    {
+        "categoria": "",
+        "pregunta": "Autor de la obra teatral \"Casa de Muñecas\"",
+        "respuesta": "Henrik Ibsen",
+        "incorrecta1": "Edward Albee‎ ",
+        "incorrecta2": "Samuel Beckett‎ ",
+        "incorrecta3": "Albert Camus‎\r",
+        "incorrecta4": "Susan met"
+    },
+    {
+        "categoria": "NIVEL 1",
+        "pregunta": "¿Cuál de estas no es una prueba de decatlón?",
+        "respuesta": "Maratón",
+        "incorrecta1": "Carrera De 1500m ",
+        "incorrecta2": "Salto Con Pértiga ",
+        "incorrecta3": "Lanzamiento De Jabalina",
+        "incorrecta4": "motocross"
+    },
+    {
+        "categoria": "NIVEL 1",
+        "pregunta": "¿Cómo se llamaba la protagonista femenina de la serie de televisión \"Scrubs\"? ",
+        "respuesta": "Elliot",
+        "incorrecta1": "Sarah",
+        "incorrecta2": "Jordan",
+        "incorrecta3": "Molly\r",
+        "incorrecta4": "Akore"
+    },
+    {
+        "categoria": "NIVEL 2",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "incorrecta4": "A Lynn",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "NIVEL 2",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "NIVEL 2",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "incorrecta4": "ertur Lonn",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "NIVEL 2",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "incorrecta4": "Aginn Simons",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "NIVEL 2",
+        "pregunta": "Raiz Cuadrada de 7",
+        "respuesta": "2,64575131106459…",
+        "incorrecta1": "1,41421356237309…",
+        "incorrecta2": "3.14159265358979...",
+        "incorrecta3": "2.23606797749978...\r",
+        "incorrecta4": "3366.33"
+    },
+    {
+        "categoria": "NIVEL 3",
+        "pregunta": " ¿Cómo se llama el disco que lanzó Katy Perry en el 2013?",
+        "respuesta": "Prism",
+        "incorrecta1": "Katy Hudson",
+        "incorrecta2": "One Of The Boys",
+        "incorrecta3": "Teenage Dream\r",
+        "incorrecta4": "Robert guthan"
+    },
+    {
+        "categoria": "NIVEL 3",
+        "pregunta": " ¿Por qué película obtuvo Sofía Loren un Oscar?",
+        "respuesta": "Dos Mujeres",
+        "incorrecta1": "Cleopatra",
+        "incorrecta2": "Hermanitas",
+        "incorrecta3": "Ninguna\r",
+        "incorrecta4": "Varios"
+    },
+    {
+        "categoria": "NIVEL 3",
+        "pregunta": " ¿Qué es Assasin's Creed?",
+        "respuesta": "Un Videojuego",
+        "incorrecta1": "Una Tienda De Ropa",
+        "incorrecta2": "Una Secta",
+        "incorrecta3": "Un País\r",
+        "incorrecta4": " Una Cancha"
+    },
+    {
+        "categoria": "NIVEL 3",
+        "pregunta": " ¿De qué color era Clifford, el perro gigante?",
+        "respuesta": "Rojo",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Azul",
+        "incorrecta3": "Amarillo\r",
+        "incorrecta4": "Verde"
+    },
+    {
+        "categoria": "NIVEL 3",
+        "pregunta": " ¿Cuál es el nombre de la canción de la película \"Titanic\"?",
+        "respuesta": "My Heart Will Go On",
+        "incorrecta1": "Bad Romance",
+        "incorrecta2": "Livin' On A Prayer",
+        "incorrecta3": "Killer Queen\r",
+        "incorrecta4": "Liliana Lozano"
+    },
+    {
+        "categoria": "NIVEL 4",
+        "pregunta": " ¿Quién de los siguientes actores salía en la película 'El otro lado de la cama'?",
+        "respuesta": "Natalia Verbeke",
+        "incorrecta1": "Hugo Silva",
+        "incorrecta2": "Mario Casas",
+        "incorrecta3": "Amaia Salamanca\r",
+        "incorrecta4": "Andrea guerrero"
+    },
+    {
+        "categoria": "NIVEL 4",
+        "pregunta": " ¿Cómo se llama el personaje malvado de Aladdin?",
+        "respuesta": "Jafar",
+        "incorrecta1": "Chadar",
+        "incorrecta2": "Scar",
+        "incorrecta3": "Lex\r",
+        "incorrecta4": "Afro"
+    },
+    {
+        "categoria": "NIVEL 4",
+        "pregunta": " ¿Quién ganó \"Artista del Año\" en los American Music Awards 2013?",
+        "respuesta": "Taylor Swift",
+        "incorrecta1": "Miley Cirus",
+        "incorrecta2": "Bruno Mars",
+        "incorrecta3": "Justin Timber\r",
+        "incorrecta4": "Sonia madison"
+    },
+    {
+        "categoria": "NIVEL 4",
+        "pregunta": " ¿De quién es la canción 'Master of Puppets'?",
+        "respuesta": "Metallica",
+        "incorrecta1": "Abba",
+        "incorrecta2": "Pink Floyd",
+        "incorrecta3": "Queen\r",
+        "incorrecta4": "Lamb of god"
+    },
+    {
+        "categoria": "NIVEL 4",
+        "pregunta": " ¿De qué planeta son originarios los eworks del universo de \"La Guerra de las Galaxias\"?",
+        "respuesta": "Endor",
+        "incorrecta1": "Alderaan",
+        "incorrecta2": "Tatooine",
+        "incorrecta3": "Khasyyyk\r",
+        "incorrecta4": "Axador"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Qué cantante estuvo saliendo con Selena Gómez?",
+        "respuesta": "Justin Bieber",
+        "incorrecta1": "Harry Styles",
+        "incorrecta2": "Robbie Williams",
+        "incorrecta3": "Simon Cowell\r",
+        "incorrecta4": "A Lynn"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Quién resulta ser el príncipe mestizo en la sexta película de Harry Potter?",
+        "respuesta": "Severus Snape",
+        "incorrecta1": "Lord Voldemort",
+        "incorrecta2": "Albus Dumbuldore",
+        "incorrecta3": "Sirius Black\r",
+        "incorrecta4": "Pann Sul"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Cómo se llamaba el primer gato de Los Simpsons?",
+        "respuesta": "Bola De Nieve",
+        "incorrecta1": "Bolita",
+        "incorrecta2": "Nieve",
+        "incorrecta3": "Gato\r",
+        "incorrecta4": "Peluche"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Cómo es conocida mundialmente la cantante Beyonce?",
+        "respuesta": "Queen B",
+        "incorrecta1": "Blue Ivy",
+        "incorrecta2": "Diva",
+        "incorrecta3": "Queen\r",
+        "incorrecta4": "Reina"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Cuál es la cantante que publicó en 2008 el álbum \"Hard  Candy\"?",
+        "respuesta": "Madonna",
+        "incorrecta1": "Britney Spears",
+        "incorrecta2": "Rihanna",
+        "incorrecta3": "Shakira\r",
+        "incorrecta4": "Martha"
+    },
+    {
+        "categoria": "NIVEL 5",
+        "pregunta": " ¿Cuáles son los nombres de \"Los Tres Chiflados\"?",
+        "respuesta": "Moe, Larry Y Curly",
+        "incorrecta1": "Mio, Luck, Patrick",
+        "incorrecta2": "Bart, Luck Y Loles",
+        "incorrecta3": "Mou, Larri Y Carly\r",
+        "incorrecta4": "Ann, greck, Lynn"
+    }
+]
